@@ -3,12 +3,12 @@
 ## 1. Introduction
 ### This guide helps you set up a Snort Intrusion Detection System (IDS) Home Lab.**
 ### Components:
- ### Kali Linux (Attacker)
- ### Ubuntu (Snort IDS)
+ - ### Kali Linux (Attacker)
+ - ### Ubuntu (Snort IDS)
             
 ## 2. Lab Setup
-### Install VMware/VirtualBox.
-### Create an Ubuntu VM for Snort.
+- ### Install VMware/VirtualBox.
+- ### Create an Ubuntu VM for Snort.
 
 ## 3. Install Snort on Ubuntu
 ### 1.Update and upgrade packages:``sudo apt update && sudo apt upgrade -y``
