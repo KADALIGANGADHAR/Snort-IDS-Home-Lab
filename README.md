@@ -1,7 +1,7 @@
 # Snort-IDS-Home-Lab
 #
 ## 1. Introduction
-### This guide helps you set up a Snort Intrusion Detection System (IDS) Home Lab.**
+### This guide helps you set up a Snort Intrusion Detection System (IDS) Home Lab.
 ### Components:
  - ### Kali Linux (Attacker)
  - ### Ubuntu (Snort IDS)
